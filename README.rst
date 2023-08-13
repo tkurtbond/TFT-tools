@@ -1,4 +1,4 @@
 TFT Tools
 @@@@@@@@@
 
-Some tools to help with TFT.
+Some tools to help with playing TFT.
